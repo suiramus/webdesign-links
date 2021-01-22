@@ -1,5 +1,5 @@
-# webdesign-links
- Various useful links for webdesign
+# Webdesign Links
+Webdesign Tools & Resources
 
 ---
 
