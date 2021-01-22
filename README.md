@@ -14,6 +14,6 @@ Coolors.co [https://coolors.co/](https://coolors.co/)
 
 # SVG
 
-SVG Compressor
+SVG Compressor  
 SVGOMG [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)
 
