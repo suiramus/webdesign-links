@@ -3,9 +3,7 @@ Webdesign Tools & Resources
 
 ---
 
-# Colors
-
-## Color palette generator
+# Colors - Palette and generators
 
 Coolors.co [https://coolors.co/](https://coolors.co/)
 
