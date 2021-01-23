@@ -27,3 +27,13 @@ ResponsiveWebDesign [https://responsivedesign.is/articles/](https://responsivede
 Webdesigner Depot [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)  
 Codrops [https://tympanus.net/codrops/](https://tympanus.net/codrops/)  
 Tania Rascia [https://www.taniarascia.com/](https://www.taniarascia.com/)  
+
+---
+
+# SEO, PageSPeed
+
+PageSpeed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)  
+
+### Browser Extensions
+
+Lighthouse [https://developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse)  
