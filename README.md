@@ -26,12 +26,12 @@ Smashing Magazine [https://www.smashingmagazine.com/](https://www.smashingmagazi
 ResponsiveWebDesign [https://responsivedesign.is/articles/](https://responsivedesign.is/articles/)  
 Webdesigner Depot [https://www.webdesignerdepot.com/](https://www.webdesignerdepot.com/)  
 Codrops [https://tympanus.net/codrops/](https://tympanus.net/codrops/)  
-Tania Rascia [https://www.taniarascia.com/](https://www.taniarascia.com/)  
+Tania Rascia [https://www.taniarascia.com/](https://www.taniarascia.com/)   
   
-Design Shack [https://designshack.net/](https://designshack.net/) 
-1stWebDesigner [https://1stwebdesigner.com/](https://1stwebdesigner.com/) 
-CSS Tricks [https://css-tricks.com/](https://css-tricks.com/)  
-Webdesign Toolbox [https://webdesigntoolbox.com/](https://webdesigntoolbox.com/)  
+Design Shack [https://designshack.net/](https://designshack.net/)   
+1stWebDesigner [https://1stwebdesigner.com/](https://1stwebdesigner.com/)   
+CSS Tricks [https://css-tricks.com/](https://css-tricks.com/)    
+Webdesign Toolbox [https://webdesigntoolbox.com/](https://webdesigntoolbox.com/)    
   
 WPShout [https://wpshout.com/](https://wpshout.com/)  
 
