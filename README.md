@@ -31,7 +31,7 @@ Tania Rascia [https://www.taniarascia.com/](https://www.taniarascia.com/)
 Design Shack [https://designshack.net/](https://designshack.net/) 
 1stWebDesigner [https://1stwebdesigner.com/](https://1stwebdesigner.com/) 
 CSS Tricks [https://css-tricks.com/](https://css-tricks.com/)  
-Wendesign Toolbox [https://webdesigntoolbox.com/](https://webdesigntoolbox.com/)  
+Webdesign Toolbox [https://webdesigntoolbox.com/](https://webdesigntoolbox.com/)  
   
 WPShout [https://wpshout.com/](https://wpshout.com/)  
 
