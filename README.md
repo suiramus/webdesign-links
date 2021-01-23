@@ -3,14 +3,14 @@ Webdesign Tools & Resources
 
 ---
 
-# Colors - Palette and generators
+## Colors - Palette and generators
 
 Coolors.co [https://coolors.co/](https://coolors.co/)
 
 
 ---
 
-# SVG
+## SVG
 
 SVG Compressor - SVGOMG [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)  
 
@@ -18,7 +18,7 @@ SVG Compressor - SVGOMG [https://jakearchibald.github.io/svgomg/](https://jakear
 
 ---
 
-# Webdesign Magazines
+## Webdesign Magazines
 
 
 Speckyboy [https://speckyboy.com/](https://speckyboy.com/)  
@@ -30,7 +30,7 @@ Tania Rascia [https://www.taniarascia.com/](https://www.taniarascia.com/)
 
 ---
 
-# SEO, PageSPeed
+## SEO, PageSPeed
 
 PageSpeed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)  
 
