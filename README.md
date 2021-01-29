@@ -7,6 +7,12 @@ Webdesign Tools & Resources
 
 Coolors.co [https://coolors.co/](https://coolors.co/)
 
+---
+
+## Gradients CSS
+CSS Gradients [https://cssgradient.io/gradient-backgrounds/](https://cssgradient.io/gradient-backgrounds/)   
+
+
 
 ---
 
@@ -17,7 +23,8 @@ SVG Compressor - SVGOMG [https://jakearchibald.github.io/svgomg/](https://jakear
 ---
 
 ## SVG Icons
-Remix Icon [https://remixicon.com/](https://remixicon.com/)
+Remix Icon [https://remixicon.com/](https://remixicon.com/)   
+Radix Icons [https://icons.modulz.app/](https://icons.modulz.app/)
 
 
 ---
