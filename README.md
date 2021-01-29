@@ -14,6 +14,10 @@ Coolors.co [https://coolors.co/](https://coolors.co/)
 
 SVG Compressor - SVGOMG [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)  
 
+---
+
+## SVG Icons
+Remix Icon [https://remixicon.com/](https://remixicon.com/)
 
 
 ---
@@ -42,6 +46,15 @@ WPShout [https://wpshout.com/](https://wpshout.com/)
 
 PageSpeed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)  
 
-### Browser Extensions
+---
+
+## Browser Extensions
 
 Lighthouse [https://developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse)  
+
+---
+
+## CSS & JS Animation
+AOS - Animate On Scroll Library [http://michalsnik.github.io/aos/](http://michalsnik.github.io/aos/)   
+Rellax - Parallax Library [https://dixonandmoe.com/rellax/](https://dixonandmoe.com/rellax/)   
+ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. [https://github.com/jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal)
